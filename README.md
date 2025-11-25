@@ -13,8 +13,8 @@ SQL scripts for data extraction and analysis |
  PL/SQL functions and procedures |
  Queries related to sales trends, inventory status, and performance metrics
 
-🔹 How to Use
-Clone this repository: git clone https://github.com/Karri-Revathi/Sales_and_inventory_analysis.git |
+🔹 How to Use: 
+Clone this repository- git clone https://github.com/Karri-Revathi/Sales_and_inventory_analysis.git |
  Open the .sql files in Oracle SQL Developer or any compatible tool. |
  Run the scripts on your Oracle database.
 
